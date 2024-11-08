@@ -21,7 +21,7 @@ To set up the Airbnb Clone:
 
 1. **Clone the Repository:** Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your_username/airbnb-clone.git
+git clone https://github.com/RadinaAvramova/airbnb-clone.git
 
 2. **Navigate to the Directory:** Change your current directory to the location of the cloned repository:
 
